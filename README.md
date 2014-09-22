@@ -4,7 +4,7 @@ This is a learning project for using Objective-C game framework Cocos2D with the
 
 The idea was to learn Cocos2D and Swift. 
 
-This project is based mostly of the book "Learning iPhone Game Development with Cocos2D 3.0" by Kiril Muzykov. 
+This project is based mostly of the book "Learning iPhone Game Development with Cocos2D 3.0" by Kiril Muzykov - http://kirillmuzykov.com/. 
 Also thanks to the following Whackylabs article for helping in setting up the Swift XCode Project:
 http://whackylabs.com/rants/?p=1053 
 
